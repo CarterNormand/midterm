@@ -61,3 +61,11 @@ body {
     width:1025px;
     margin:0 auto;
 }
+
+.header {
+	padding: 60px;
+	text-align: center;
+	background: #aad4cf;
+	color: white;
+	font-size: 30px;
+  }
