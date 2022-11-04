@@ -85,7 +85,6 @@ body {
   }
 
   ul {
-	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
@@ -130,5 +129,19 @@ p.Text {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 15.5px;
 	line-height: 1.5;
-	margin: 0px 25px 0px 0px
+	margin: 0px 30px 24px 0px
+}
+
+#Header2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight:lighter;
+	margin-left: 10px;
+  }
+
+#List {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	position: relative;
+	top:0px; left:10px; margin-left:0px; margin-right:0px;
 }
