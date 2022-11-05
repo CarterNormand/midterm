@@ -145,3 +145,18 @@ p.Text {
 	position: relative;
 	top:0px; left:10px; margin-left:0px; margin-right:0px;
 }
+
+#Header3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight:lighter;
+	margin-left: 10px;
+  }
+
+  p.Box {
+	border-style: solid;
+}
+
+#Box {
+	padding: 100px
+}
